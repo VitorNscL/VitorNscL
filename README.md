@@ -9,7 +9,7 @@
 
 </div>
 
-<div align="center">
+<div align="">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript logo" />&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript logo" />&nbsp;&nbsp;&nbsp;
