@@ -4,10 +4,11 @@
 
 <div align="">
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNscl&show_icons=true&theme=radical&title_color=ff3068&icon_color=ff3068&hide_border=true)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorNscl&show_icons=true&theme=radical&title_color=ff3068&icon_color=ff3068&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNscl&layout=compact&langs_count=8&theme=radical&title_color=ff3068&hide_border=true"/>
 
 </div>
+
 
 <div align="">
 
