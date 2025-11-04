@@ -6,6 +6,8 @@
 
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNscl&show_icons=true&theme=radical&title_color=ff3068&icon_color=ff3068&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNscl&layout=compact&theme=radical&title_color=ff3068&hide_border=true&bg_color=0d1117)
+
 </div>
 
 <div align="">
