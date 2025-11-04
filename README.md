@@ -5,17 +5,14 @@
   🚀 Apaixonado por tecnologia, código limpo e soluções criativas!
 </p>
 
----
+<div align="center">
 
-### 🧠 Sobre mim
-- 🔭 Atualmente estudando e aprimorando minhas habilidades em **Segurança Web**
-- 💡 Foco em **desenvolvimento full-stack** e boas práticas de código
-- 🧰 Sempre buscando aprender **novas linguagens, frameworks e ferramentas**
-- ⚡ Curiosidade: adoro explorar vulnerabilidades éticas e melhorar sistemas 💀➡️💪
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNscl&show_icons=true&theme=radical&title_color=ff3068&icon_color=ff3068&hide_border=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNscl&layout=compact&theme=radical&title_color=ff3068&hide_border=true)
 
-### 🛠️ Tecnologias que uso
+</div>
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,20 +31,10 @@
 
 </div>
 
----
 
-### 📊 Minhas estatísticas no GitHub
-<div align="center">
-
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorNscl&show_icons=true&theme=radical&title_color=ff3068&icon_color=ff3068&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNscl&layout=compact&theme=radical&title_color=ff3068&hide_border=true)
-
-</div>
 
 ---
 
-### 🌐 Conecte-se comigo!
 <div align="center">
   
 <a href="https://www.instagram.com/" target="_blank">
@@ -70,4 +57,3 @@
 
 ---
 
-<h3 align="center">✨ “Transformando linhas de código em soluções reais.” ✨</h3>
